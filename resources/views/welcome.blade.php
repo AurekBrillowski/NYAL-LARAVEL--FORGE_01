@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    NYAL Production Server
                 </div>
 
                 <div class="links">
