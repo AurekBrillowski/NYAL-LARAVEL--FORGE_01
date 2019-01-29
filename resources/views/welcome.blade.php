@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    NYAL Production Server
+                    NYAL - Production
                 </div>
 
                 <div class="links">
