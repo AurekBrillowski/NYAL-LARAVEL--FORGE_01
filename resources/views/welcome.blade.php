@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    NYAL Development Server
+                    NYAL - Development
                 </div>
 
                 <div class="links">
