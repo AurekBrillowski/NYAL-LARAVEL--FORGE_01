@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    NYAL Testing Server
+                    NYAL - Testing
                 </div>
 
                 <div class="links">
